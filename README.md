@@ -13,3 +13,14 @@
 - [Django Rest Framework](https://www.django-rest-framework.org/)
 - [Vue官方教程](https://cn.vuejs.org/v2/guide/)
 - [ViewUI官方教程](https://www.iviewui.com/docs/introduce)
+
+## 推荐环境
+| - | - |
+
+| --- | --- |
+| `IDE` | `JetBrains`全家桶 |
+| `Node.js` | 14 |
+| `Python` | 3.8 |
+| `Postgres` | 最新版本 |
+| `Redis` | 最新版本 |
+| 操作系统 | `Linux`和`MacOS`最佳，`Windows`由于使用的容器的类型和`*nux`的不同，在使用容器和`celery`的时候不是特别方便，当然如果有第二台机器最佳了 |
