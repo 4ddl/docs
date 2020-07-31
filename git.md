@@ -10,3 +10,11 @@
 - 修改代码
 - 提交新分支到远端库
 - 提交pull request到`master`分支
+
+## 相关Git命令
+- `git init` 创建一个新的版本库
+- `git clone` 拉取远端版本库到本地
+- `git pull` 将远端版本库的版本更新到本地
+- `git fetch` 同步版本库信息
+- `git push` 推送代码，tag之类的
+- `git help` 可以查看git相关的命令
