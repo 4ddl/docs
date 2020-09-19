@@ -1,7 +1,7 @@
 # 项目相关的文档和教程
 
 ## 相关文档
-- [后端接口相关API](https://github.com/4ddl/docs/blob/master/api.md)
+- [部署时的环境变量配置](https://github.com/4ddl/docs/blob/master/env.md)
 - [安装docker](https://docs.docker.com/engine/install/)  
 - [安装docker-compose](https://docs.docker.com/compose/install/)  
 - [Git相关介绍](https://github.com/4ddl/docs/blob/master/git.md)
