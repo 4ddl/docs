@@ -46,10 +46,5 @@
 | DDLCW_DEBUG | `False` | 否 | 是否开启debug |
 | DDLCW_ENABLE_SYNC | `False` | 否 | 是否允许同步测试数据 |
 | JUDGE_TOKEN | `JUDGE_TOKEN` | 否 | 判题机请求数据的Token |
-| RABBITMQ_HOST | `127.0.0.1` | 否 | RabbitMQ的主机 |
-| RABBITMQ_PORT | `5672` | 否 | RabbitMQ的端口 |
-| RABBITMQ_USER | `guest` | 否 | RabbitMQ的用户 |
-| RABBITMQ_PASS | `guest` | 否 | RabbitMQ的密码 |
-| BACKEND_PROTOCOL | `http` | 否 | 请求后台的链接协议 |
-| BACKEND_HOST | `127.0.0.1` | 否 | 后台的主机地址 |
-| BACKEND_PORT | `8000` | 否 | 后台的端口 |
+| BROKER_URL | `BROKER_URL=amqp://guest:guest@127.0.0.1:5672/` | 否 | 判题机的RabbitMQ地址 |
+| BACKEND_URL | `http://` | 否 | 请求后台题目的host |
