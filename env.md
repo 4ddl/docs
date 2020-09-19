@@ -47,4 +47,4 @@
 | DDLCW_ENABLE_SYNC | `False` | 否 | 是否允许同步测试数据 |
 | JUDGE_TOKEN | `JUDGE_TOKEN` | 否 | 判题机请求数据的Token |
 | BROKER_URL | `amqp://guest:guest@127.0.0.1:5672/` | 否 | 判题机的RabbitMQ地址 |
-| BACKEND_URL | `http://` | 否 | 请求后台题目的host |
+| BACKEND_URL | `http://127.0.0.1` | 否 | 请求后台题目的host |
