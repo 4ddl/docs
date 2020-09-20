@@ -24,3 +24,6 @@
 | `Postgres` | 最新版本 |
 | `Redis` | 最新版本 |
 | 操作系统 | `Linux`和`MacOS`最佳，`Windows`由于使用的容器的类型和`*nux`的不同，在使用容器和`celery`的时候不是特别方便，当然如果有第二台机器最佳了 |
+
+## 结构图
+![structure](https://cdn.wustacm.top/dianhsu/structure.png)
